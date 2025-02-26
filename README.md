@@ -1,6 +1,13 @@
 # 👋 Hello, I'm Rabiul Hasan
 ## 🧑🏻‍💼About Me
 I am a passionate computer science student. I have been learning programming languages, web development, and computer science-related subjects.I am improving my web development skills. Every day I want to learn something new.
+## 👨🏻‍💻My Skills
+- Competitive Programmer
+- Front-End Web Development
+- MS Word
+- MS Excel
+- MS Powerpoint
+
 ## 👨🏻‍🎓Education
  1. B.Sc. in Computer Science and Telecommunication Engineering
 
@@ -16,7 +23,7 @@ I am a passionate computer science student. I have been learning programming lan
 - Bangla : Native
 - English : Intermediate
 
-## Hobby / Activities
+## 💫Hobby / Activities
 - 📔Reading
 - 🚶🏽‍♂️Walking
 - ✈️Travelling
