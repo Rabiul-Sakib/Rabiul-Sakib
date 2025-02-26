@@ -1,4 +1,25 @@
-## 👋 Hello, I'm Rabiul Hasan
+# 👋 Hello, I'm Rabiul Hasan
+## 👩🏻‍💼About Me
+I am a passionate computer science student. I have been learning programming languages, web development, and computer science-related subjects.I am improving my web development skills. Every day I want to learn something new.
+## 👨🏻‍🎓Education
+ 1. B.Sc. in Computer Science and Telecommunication Engineering
+
+    Noakhali Science and Technology University
+ 2. Higher Secondary Certificate(HSC)
+  
+     Chittagong Govt. Model School and College
+ 3. Secondary School Certificate(SSC)
+
+    South Sandwip High School
+
+## 🗣️Languages
+- Bangla : Native
+- English : Intermediate
+
+## Hobby / Activities
+- 📔Reading
+- 🚶🏽‍♂️Walking
+- ✈️Travelling
 
 
 <!--
