@@ -2,7 +2,7 @@
 ## 🧑🏻‍💼About Me
 I am a passionate computer science student. I have been learning programming languages, web development, and computer science-related subjects.I am improving my web development skills. Every day I want to learn something new.
 ## 👨🏻‍💻My Skills
-- Competitive Programmer
+- Competitive Programming
 - Front-End Web Development
 - MS Word
 - MS Excel
